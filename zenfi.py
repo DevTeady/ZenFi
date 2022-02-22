@@ -37,7 +37,7 @@ welcomeText = '''
    Z:::::::::::::::::Z  ee:::::::::::::e    n::::n    n::::nF::::::::FF           i::::::i
    ZZZZZZZZZZZZZZZZZZZ    eeeeeeeeeeeeee    nnnnnn    nnnnnnFFFFFFFFFFF           iiiiiiii
     
-                             Telegram:https://t.me/DarkQuillium
+                             Telegram: https://t.me/DarkQuillium
             
                   \033[1;33m   Now Copy This Green Text And Press Enter:\033
           
