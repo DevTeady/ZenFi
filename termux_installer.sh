@@ -11,7 +11,7 @@ fi
 
 chmod +x zenfi.py
 
-printf "###############################################\n#  All done! Now you can run ZenFi with\n#   sudo python zenfi.py -i wlan0 -K\n#\n#  To update, run\n#   The command again.\n###############################################\n"
+printf "###############################################\n#  All done! Now you can run ZenFi with\n#   sudo python zenfi.py -i wlan0 -K\n#\n#  To update\n#  Run the command again.\n###############################################\n"
 
 printf "Do you want to run the ZenFi script? [Y/n]"
 read user
