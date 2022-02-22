@@ -3,7 +3,7 @@
 pkg install -y root-repo 
 pkg install -y git tsu python wpa-supplicant pixiewps iw python
 
-if [[ -d ".git" ]]; then
+if [[ -d ".git/" ]]; then
   git pull
 else
   git clone --depth 1 https://github.com/DevTeady/ZenFi .
