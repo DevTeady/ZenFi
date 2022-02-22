@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
 pkg install -y root-repo 
-pkg install -y git tsu python wpa-supplicant pixiewps iw python python-pip
+pkg install -y git tsu python wpa-supplicant pixiewps iw python
 
 git clone --depth 1 https://github.com/DevTeady/ZenFi .
 
