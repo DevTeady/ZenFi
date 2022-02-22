@@ -81,6 +81,7 @@ Please note that root access is required.
 
 #### Using installer
  ```
+ mkdir ZenFi && cd ZenFi
  curl -sSf https://raw.githubusercontent.com/DevTeady/ZenFi/master/termux_installer.sh | bash
  ```
 #### Manually
