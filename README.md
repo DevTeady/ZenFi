@@ -79,7 +79,7 @@ Optional: getting a list of vulnerable to pixie dust devices for highlighting in
 ## [Termux](https://play.google.com/store/apps/details?id=com.termux)
 Please note that root access is required.  
 
-#### Using installer
+#### Using automated installer
  ```
  mkdir ZenFi && cd ZenFi
  curl -sSf https://raw.githubusercontent.com/DevTeady/ZenFi/master/termux_installer.sh | bash
